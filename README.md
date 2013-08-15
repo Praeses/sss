@@ -33,7 +33,7 @@ do work
 
 ### Client
 ```Bashscript
-sss url [magic pin]
+sss [magic pin]
 do work
 ```
 
